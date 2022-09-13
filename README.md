@@ -20,6 +20,11 @@ Practical python implemetation of [Udacity Introduction to Computer Vision Cours
 `4` Udacity_Image processing_04
 * Geometric Transformations
 
+`5` Udacity_Image processing_05
+* Essential and Fundmental matrices
+* Compute Fundmental matrix from corresponding points
+* Compute Epipolar lines
+
 # Software requirments:
 * Pyhton libraries:<br>
   * opencv -> for image processing operations
