@@ -3,27 +3,33 @@ Practical python implemetation of [Udacity Introduction to Computer Vision Cours
 
 # Contents of files:
 
-`1` Udacity_Image processing_01
+#### `1` Udacity_Image processing_01
 * Noise
 * Convolution
 * Filters as templates
 * Edge Detection
 
-`2` Udacity_Image processing_02
+#### `2` Udacity_Image processing_02
 * Hough Space.
 * Hough Transform.
 
-`3` Udacity_Image processing_03
+#### `3` Udacity_Image processing_03
 * Fourier Transform
 * Operations in frequency domain
 
-`4` Udacity_Image processing_04
+#### `4` Udacity_Image processing_04
 * Geometric Transformations
 
-`5` Udacity_Image processing_05
+#### `5` Udacity_Image processing_05
 * Essential and Fundmental matrices
 * Compute Fundmental matrix from corresponding points
 * Compute Epipolar lines
+
+#### `6` Udacity_Image processing_06
+* Harris corners
+* Scale Invariant
+* Using Differnce of Gaussian
+* Description of Keypoints
 
 # Software requirments:
 * Pyhton libraries:<br>
